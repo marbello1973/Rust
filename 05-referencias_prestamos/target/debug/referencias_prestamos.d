@@ -1,0 +1,1 @@
+/media/Almacen/40-Curso\ de\ rust/05-referencias_prestamos/target/debug/referencias_prestamos: /media/Almacen/40-Curso\ de\ rust/05-referencias_prestamos/src/longitud.rs /media/Almacen/40-Curso\ de\ rust/05-referencias_prestamos/src/main.rs

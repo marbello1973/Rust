@@ -1,0 +1,6 @@
+[package]
+name = "comportamientos_compartido_rasgos"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

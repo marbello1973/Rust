@@ -1,0 +1,1 @@
+/media/Almacen/40-Curso\ de\ rust/36-authenticacion/target/debug/authenticacion: /media/Almacen/40-Curso\ de\ rust/36-authenticacion/src/authenticacion.rs /media/Almacen/40-Curso\ de\ rust/36-authenticacion/src/main.rs

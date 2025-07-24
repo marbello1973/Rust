@@ -1,0 +1,1 @@
+/media/Almacen/40-Curso\ de\ rust/35-ejercicio_implementacion_interador/target/debug/ejercicio_implementacion_interador: /media/Almacen/40-Curso\ de\ rust/35-ejercicio_implementacion_interador/src/main.rs

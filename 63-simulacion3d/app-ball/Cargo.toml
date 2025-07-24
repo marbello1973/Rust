@@ -1,0 +1,11 @@
+[package]
+name = "app-ball"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winit = "0.30.11"
+pixels = "0.15.0"
+rand = "0.9.2"
+three-d = "0.18.2"
+

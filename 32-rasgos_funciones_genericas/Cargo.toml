@@ -1,0 +1,6 @@
+[package]
+name = "rasgos_funciones_genericas"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

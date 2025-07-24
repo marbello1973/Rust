@@ -1,0 +1,13 @@
+/node_modules
+/client/node_modules
+/server/node_modules
+/server/.env
+.env
+token.txt
+# Añade esto a tu .gitignore
+/target/
+**/*.a
+**/*.so
+**/*.zip46-AI/target/
+/46-AI
+token

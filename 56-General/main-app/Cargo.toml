@@ -1,0 +1,10 @@
+[package]
+name = "main-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+core-1 = { path = "../core-1" }
+core-2 = { path = "../core-2" }
+core-3 = { path = "../core-3" }
+core-4 = { path = "../core-4" }

@@ -1,0 +1,1 @@
+/media/Almacen/40-Curso\ de\ rust/38-ejercicio_modulos/target/debug/ejercicio_modulos: /media/Almacen/40-Curso\ de\ rust/38-ejercicio_modulos/src/letters.rs /media/Almacen/40-Curso\ de\ rust/38-ejercicio_modulos/src/main.rs /media/Almacen/40-Curso\ de\ rust/38-ejercicio_modulos/src/numbers.rs

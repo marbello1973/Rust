@@ -1,0 +1,10 @@
+[package]
+name = "generado_pruebas_unitarias"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+swc_ecma_parser_macros = "0.4.1"
+swc_ecma_codegen_macros = "1.0.0"
+swc_common = "5.0.0"
+clap = {version = "4.5.9", features = ["derive"]}

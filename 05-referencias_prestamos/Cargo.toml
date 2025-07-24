@@ -1,0 +1,6 @@
+[package]
+name = "referencias_prestamos"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
