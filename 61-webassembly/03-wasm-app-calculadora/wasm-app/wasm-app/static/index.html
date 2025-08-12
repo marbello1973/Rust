@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>WASM-APP</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Calculadora WASM + RUST</h1>
+    <input type="number" id="num1" placeholder="Primer número" value="0" />
+    <select id="signo">
+      <option value="suma">+</option>
+      <option value="resta">-</option>
+      <option value="mul">*</option>
+    </select>
+    <input type="number" id="num2" placeholder="Segundo número" value="0" />
+    <button id="calculate">Calcular Suma</button>
+    <div id="result"></div>
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
